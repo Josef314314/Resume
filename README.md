@@ -57,7 +57,7 @@ Intern</b> <br/>
 
 <h2>EDUCATION</h2>
 
-<b>[Google Cybersecurity Certificate](https://coursera.org/share/e24eab8cea5e88c0ef671d799fe8eac7)</b>  <br/> 
+<b>[Google Cybersecurity Certificate by Google on Coursera](https://coursera.org/share/e24eab8cea5e88c0ef671d799fe8eac7)</b>  <br/> 
 November 2023 – April 2024 <br/> 
 <br/>
 <b>John von Neumann University (Kecskemét College)</b>  <br/> 
