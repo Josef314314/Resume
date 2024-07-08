@@ -64,7 +64,7 @@ November 2023 – April 2024 <br/>
 2011 - 2015  <br/>
 GAMF Faculty of Engineering and Computer Science Kecskemét, Hungary <br/>
 [Mechanical Engineer Bsc. (Informatics of Manufacturing Engineering)](https://github.com/Josef314314/Resume/blob/main/Bachelor's%20Degree.pdf) <br/>
- o [Festo P111 Course - Basics of Pneumatics and Pneumatic Machine Programming, 2013](https://github.com/Josef314314/Resume/blob/main/Josef_Stefam_Magyari_Festo_P111.pdf) <br/>
+ o [Festo P111 Course - Basics of Pneumatics and Pneumatic Machine Programming, 2013](https://github.com/Josef314314/Resume/blob/main/Festo_P111_Cert.pdf) <br/>
   
 <b>Beszédes József MMIK</b> <br/>
 2007 – 2011 <br/>
