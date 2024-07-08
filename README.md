@@ -68,7 +68,7 @@ GAMF Faculty of Engineering and Computer Science Kecskemét, Hungary <br/>
   
 <b>Beszédes József MMIK</b> <br/>
 2007 – 2011 <br/>
-(Secondary) Technical School Magyarkanizsa, Serbia <br/>
+Vocational Secondary School (Magyarkanizsa, Serbia) <br/>
 [Mechanical Technician and Computer Editor](https://github.com/Josef314314/Resume/blob/main/Josef_Stefam_Magyari_KozepsuliDiploma.pdf) <br/>
 
 <h2>SKILLS & INTERESTS</h2>
