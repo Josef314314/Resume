@@ -4,7 +4,7 @@
 
 <h2>Security Analyst</h2> 
 As a highly motivated security professional with 6+ years of transferable skills from production and office experience in various engineering fields and international environments, I am transitioning to cybersecurity to leverage my analytical abilities and passion for protecting organisations and the people they serve. <br/> 
-Recently, I completed the Google Cybersecurity Certificate program and gained key knowledge and skills in NIST frameworks; identifying threats, risks and vulnerabilities; security hardening; threat modelling; incident escalation and response. My experience is complemented by meticulous attention to detail, and I have a talent for proactive thinking, which helps me identify and prevent potential problems. Integrity, helpfulness, and open-mindedness are foundational to my work ethic, ensuring that I bring enthusiasm and dedication to every task. <br/>
+Recently, I completed the Google Cybersecurity Certificate program and gained key knowledge and skills in NIST frameworks; Intrusion Detection Systems; identifying threats, risks and vulnerabilities; security hardening; threat modelling; incident escalation and response. My experience is complemented by meticulous attention to detail, and I have a talent for proactive thinking, which helps me identify and prevent potential problems. Integrity, helpfulness, and open-mindedness are foundational to my work ethic, ensuring that I bring enthusiasm and dedication to every task. <br/>
 <br/>
 
 <h2>Key Skills:</h2>
@@ -34,6 +34,7 @@ Estimator (Product Quantity Survey)
 - Improved customer loyalty by 22% by consistently providing accurate, timely quotations and managing client correspondence to meet their expectations. <br/>
 - Proactively identified and mitigated potential production and administration issues through meticulous review of technical drawings, documents and data. <br/>
 - Prevented costly downtime and ensured team success, by providing timely and effective IT support to colleagues and actively participating in problem-solving and troubleshooting. <br/>
+- Worked remotely for 6 weeks during COVID, using a virtual machine system.. <br/>
 
 <h3>MHG Fahrzeugtechnik & MHG Proseria GmbH</h3>
 <b>Heubach, Germany <br/> 
