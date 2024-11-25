@@ -87,6 +87,7 @@ Vocational Secondary School (Magyarkanizsa, Serbia) <br/>
 
 <b>Languages:</b> English | Hungarian | German | Serbian <br/>
 <b>Soft Skills:</b> Adaptability | Strong attention to detail | Proactive thinking <br/>
+<b>Mechanical Engineering Skills:</b> Solid Edge (from V19 to ST2) | CAD/CAM | FluidSIM | TiaPortal V11 | Technical Documentation | Technical Drawing <br/>
 <b>Interests:</b> Philosophy | Psychology | Programming languages | Hiking | Literature | Basketball | Video Games <br/>
 
 <b>In progress:</b> CompTIA Security+ Certification
