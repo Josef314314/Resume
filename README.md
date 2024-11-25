@@ -2,9 +2,11 @@
 
 - Koenigsbronn, Germany | js.magyari@gmail.com | +44 7871 450 876
 
-<h2>Security Analyst</h2> 
-As a highly motivated security professional with 6+ years of transferable skills from production and office experience in various engineering fields and international environments, I am transitioning to cybersecurity to leverage my analytical abilities and passion for protecting organisations and the people they serve. <br/> 
-Recently, I completed the Google Cybersecurity Certificate program and gained key knowledge and skills in NIST frameworks; Intrusion Detection Systems; identifying threats, risks and vulnerabilities; security hardening; threat modelling; incident escalation and response. My experience is complemented by meticulous attention to detail, and I have a talent for proactive thinking, which helps me identify and prevent potential problems. Integrity, helpfulness, and open-mindedness are foundational to my work ethic, ensuring that I bring enthusiasm and dedication to every task. <br/>
+<h2>Security Analyst \ Mechanical Engineer</h2> 
+As a highly motivated engineer with 7+ years of transferable skills from production and office experience in various engineering fields and international environments, I am transitioning to cybersecurity to leverage my analytical abilities and passion for protecting organisations and the people they serve. 
+Recently, I completed the Google Cybersecurity Certificate program and gained key knowledge and skills in NIST frameworks; Intrusion Detection Systems; identifying threats, risks and vulnerabilities; security hardening; threat modelling; incident escalation and response; etc.
+My experience is complemented by meticulous attention to detail, and I have a talent for proactive thinking, which helps me identify and prevent potential problems. Integrity, helpfulness, and open-mindedness are foundational to my work ethic, ensuring that I bring enthusiasm and dedication to every task.
+ <br/>
 <br/>
 
 <h2>Key Skills:</h2>
@@ -20,6 +22,15 @@ Recently, I completed the Google Cybersecurity Certificate program and gained ke
 
 <h2>PROFESSIONAL EXPERIENCE</h2>
 
+<h3>Lothar Walther Feinwerkzeugbau GmbH</h3> 
+<b>Koenigsbronn, Germany <br/>
+September 2024 – Present <br/>
+Quality Assurance (for production) </b> <br/> <br/>
+
+- Programmed a high-precision Sylvac Scan optical measuring machine, by scanning the product and applying the measurement details to the relevant points and edges to minimize human error in the quality assurance protocol and to ensure smooth production. <br/>
+- Executed quality control procedures to verify product adherence to quality standards, by conducting final- and intermediate inspections with related documentation to confirm that critical dimensions are within tolerance and aligned with customer specifications and drawings. <br/>
+- Provided support to CNC and Delivery teams, by successfully handling and completing tasks during coworkers absences. (Operating CNC machines with precision, preparing finished products for delivery, documenting, etc.) <br/>
+
 <h3>FabSpeed (Michelmersh Brick Holdings PLC Group)</h3> 
 <b>Watlington, UK <br/>
 February 2018 - October 2023 <br/>
@@ -34,7 +45,7 @@ Estimator (Product Quantity Survey)
 - Improved customer loyalty by 22% by consistently providing accurate, timely quotations and managing client correspondence to meet their expectations. <br/>
 - Proactively identified and mitigated potential production and administration issues through meticulous review of technical drawings, documents and data. <br/>
 - Prevented costly downtime and ensured team success, by providing timely and effective IT support to colleagues and actively participating in problem-solving and troubleshooting. <br/>
-- Worked remotely for 6 weeks during COVID, using a virtual machine system.. <br/>
+- Worked remotely for 6 weeks during COVID, using a virtual machine system. <br/>
 
 <h3>MHG Fahrzeugtechnik & MHG Proseria GmbH</h3>
 <b>Heubach, Germany <br/> 
