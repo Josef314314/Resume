@@ -59,7 +59,7 @@ Hydraulic Press Operator</b> <br/>
 <h3>Mercedes-Benz Manufacturing Hungary Kft</h3> 
 <b>Kecskemét, Hungary <br/>
 June 2014 - November 2014 <br/>
-Intern</b> <br/> 
+Mechanical Engineering Intern</b> <br/> 
 <br/>
 <b>Project:</b> Increased production efficiency by 2.41% and annual output by 4510 Mercedes cars through the design and implementation of a windscreen installation manipulator (thesis project). This innovation resulted in a 2.5-second reduction in installation time and significant cost savings with a rapid payback period of 4 months.<br/>
 <br/>
